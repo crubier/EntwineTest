@@ -1,0 +1,622 @@
+{
+   "asset" : {
+      "version" : "0.0"
+   },
+   "geometricError" : 280,
+   "root" : {
+      "boundingVolume" : {
+         "box" : [ 0, 0, 10, 1120, 0, 0, 0, 1120, 0, 0, 0, 1120 ]
+      },
+      "children" : [
+         {
+            "boundingVolume" : {
+               "box" : [ 0, 0, 10, 1120, 0, 0, 0, 1120, 0, 0, 0, 1120 ]
+            },
+            "children" : [
+               {
+                  "boundingVolume" : {
+                     "box" : [ 0, 0, 10, 1120, 0, 0, 0, 1120, 0, 0, 0, 1120 ]
+                  },
+                  "children" : [
+                     {
+                        "boundingVolume" : {
+                           "box" : [ -560, -560, -550, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, -840, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, -700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "7165269-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, -700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "7427413-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "1660245-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           },
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, -280, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, -420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "8738133-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, -420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "9000277-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, -140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "9262421-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, -140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "9524565-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2184533-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "349525-0.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ -560, -560, 570, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, -280, 290, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, -420, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "8738133-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, -420, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "9000277-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, -140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "9262421-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2184533-2.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "349525-1.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ 560, -560, -550, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, -840, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "10310997-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, -700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "10573141-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2446677-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           },
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, -280, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "11883861-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, -420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "12146005-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "12408149-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, -140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "12670293-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2970965-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "611669-0.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ 560, -560, 570, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, -840, 290, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -700, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "10310997-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, -700, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "10573141-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2446677-2.pnts"
+                              },
+                              "geometricError" : 8.75
+                           },
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, -280, 290, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -420, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "11883861-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, -140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "12408149-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "2970965-2.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "611669-1.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ -560, 560, -550, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, 280, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, 140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15029589-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, 140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15291733-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, 420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15553877-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, 420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15816021-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "3757397-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           },
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, 840, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, 700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "17126741-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, 700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "17388885-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "4281685-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "873813-0.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ -560, 560, 570, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ -280, 280, 290, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -420, 140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15029589-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, 140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15291733-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ -140, 420, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "15816021-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "3757397-2.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "873813-1.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ 560, 560, -550, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, 280, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, 140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18175317-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, 140, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18437461-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, 420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18699605-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, 420, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18961749-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "4543829-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           },
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, 840, -270, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, 700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "20272469-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, 700, -130, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "20534613-3.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "5068117-1.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "1135957-0.pnts"
+                        },
+                        "geometricError" : 17.5
+                     },
+                     {
+                        "boundingVolume" : {
+                           "box" : [ 560, 560, 570, 560, 0, 0, 0, 560, 0, 0, 0, 560 ]
+                        },
+                        "children" : [
+                           {
+                              "boundingVolume" : {
+                                 "box" : [ 280, 280, 290, 280, 0, 0, 0, 280, 0, 0, 0, 280 ]
+                              },
+                              "children" : [
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 140, 140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18175317-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, 140, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18437461-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 },
+                                 {
+                                    "boundingVolume" : {
+                                       "box" : [ 420, 420, 150, 140, 0, 0, 0, 140, 0, 0, 0, 140 ]
+                                    },
+                                    "content" : {
+                                       "url" : "18961749-4.pnts"
+                                    },
+                                    "geometricError" : 4.375
+                                 }
+                              ],
+                              "content" : {
+                                 "url" : "4543829-2.pnts"
+                              },
+                              "geometricError" : 8.75
+                           }
+                        ],
+                        "content" : {
+                           "url" : "1135957-1.pnts"
+                        },
+                        "geometricError" : 17.5
+                     }
+                  ],
+                  "content" : {
+                     "url" : "87381-0.pnts"
+                  },
+                  "geometricError" : 35
+               }
+            ],
+            "content" : {
+               "url" : "21845-0.pnts"
+            },
+            "geometricError" : 70
+         }
+      ],
+      "content" : {
+         "url" : "5461-0.pnts"
+      },
+      "geometricError" : 140,
+      "refine" : "add",
+      "transform" : [
+         0.83801644089999561,
+         -0.54564498053340926,
+         0,
+         0,
+         0.37810382345174925,
+         0.58070216298876842,
+         0.7209871681183615,
+         0,
+         -0.39340302931278126,
+         -0.60419910056111603,
+         0.69294841323771406,
+         0,
+         -2505189.4161500977,
+         -3847538.2221057564,
+         4412693.6028266279,
+         1
+      ]
+   }
+}

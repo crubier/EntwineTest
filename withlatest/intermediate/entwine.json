@@ -1,0 +1,85 @@
+{
+   "bounds" : [ -2505910, -3848259, 4411973, -2504468, -3846817, 4413415 ],
+   "boundsConforming" : [ -2505897, -3848259, 4412149, -2504482, -3846818, 4413238 ],
+   "dataType" : "laszip",
+   "hierarchyType" : "json",
+   "numPoints" : 10653336,
+   "offset" : [ -2505189, -3847538, 4412694 ],
+   "reprojection" : {
+      "in" : "EPSG:4978",
+      "out" : "EPSG:4978"
+   },
+   "scale" : 0.01,
+   "schema" : [
+      {
+         "name" : "X",
+         "type" : "int32"
+      },
+      {
+         "name" : "Y",
+         "type" : "int32"
+      },
+      {
+         "name" : "Z",
+         "type" : "int32"
+      },
+      {
+         "name" : "Intensity",
+         "type" : "uint16"
+      },
+      {
+         "name" : "ReturnNumber",
+         "type" : "uint8"
+      },
+      {
+         "name" : "NumberOfReturns",
+         "type" : "uint8"
+      },
+      {
+         "name" : "ScanDirectionFlag",
+         "type" : "uint8"
+      },
+      {
+         "name" : "EdgeOfFlightLine",
+         "type" : "uint8"
+      },
+      {
+         "name" : "Classification",
+         "type" : "uint8"
+      },
+      {
+         "name" : "ScanAngleRank",
+         "type" : "float"
+      },
+      {
+         "name" : "UserData",
+         "type" : "uint8"
+      },
+      {
+         "name" : "PointSourceId",
+         "type" : "uint16"
+      },
+      {
+         "name" : "GpsTime",
+         "type" : "double"
+      },
+      {
+         "name" : "Red",
+         "type" : "uint16"
+      },
+      {
+         "name" : "Green",
+         "type" : "uint16"
+      },
+      {
+         "name" : "Blue",
+         "type" : "uint16"
+      },
+      {
+         "name" : "OriginId",
+         "type" : "uint32"
+      }
+   ],
+   "srs" : "EPSG:4978",
+   "ticks" : 256
+}

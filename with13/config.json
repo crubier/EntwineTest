@@ -1,0 +1,14 @@
+{
+  "reprojection": {
+    "in": "EPSG:4978",
+    "out": "EPSG:4978"
+  },
+  "formats": {
+    "cesium": {
+      "truncate": true,
+      "tilesetSplit": 8,
+      "geometricErrorDivisor": 16.0,
+      "batchTable": ["Intensity", "Red", "Green", "Blue", "Classification"]
+    }
+  }
+}

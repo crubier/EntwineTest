@@ -1,0 +1,164 @@
+{
+   "baseType" : "sliced",
+   "bounds" : [ -1120, -1120, -1110, 1120, 1120, 1130 ],
+   "boundsConforming" : [
+      -985.03827269072644,
+      -1077.2522988433484,
+      -1089.736677124165,
+      985.03827269072644,
+      1077.2522988433484,
+      1089.7366771250963
+   ],
+   "compressHierarchy" : "lzma",
+   "density" : 2.5098923730472111,
+   "formats" : {
+      "cesium" : {
+         "batchTable" : [ "Intensity", "Red", "Green", "Blue", "Classification" ],
+         "geometricErrorDivisor" : 16,
+         "tilesetSplit" : 8,
+         "truncate" : true
+      }
+   },
+   "hierarchyStructure" : {
+      "baseDepth" : 9,
+      "coldDepth" : 0,
+      "dimensions" : 2,
+      "dynamicChunks" : true,
+      "mappedDepth" : 1,
+      "nullDepth" : 0,
+      "numPointsHint" : 10653336,
+      "pointsPerChunk" : 262144,
+      "prefixIds" : false,
+      "sparseDepth" : 15,
+      "startDepth" : 7,
+      "tubular" : true
+   },
+   "offset" : [ 0, 0, 10 ],
+   "reprojection" : {
+      "in" : "EPSG:4978",
+      "out" : "EPSG:4978"
+   },
+   "scale" : 0.01,
+   "schema" : [
+      {
+         "name" : "X",
+         "size" : 4,
+         "type" : "signed"
+      },
+      {
+         "name" : "Y",
+         "size" : 4,
+         "type" : "signed"
+      },
+      {
+         "name" : "Z",
+         "size" : 4,
+         "type" : "signed"
+      },
+      {
+         "name" : "Intensity",
+         "size" : 2,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "ReturnNumber",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "NumberOfReturns",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "ScanDirectionFlag",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "EdgeOfFlightLine",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "Classification",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "ScanAngleRank",
+         "size" : 4,
+         "type" : "floating"
+      },
+      {
+         "name" : "UserData",
+         "size" : 1,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "PointSourceId",
+         "size" : 2,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "GpsTime",
+         "size" : 8,
+         "type" : "floating"
+      },
+      {
+         "name" : "Red",
+         "size" : 2,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "Green",
+         "size" : 2,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "Blue",
+         "size" : 2,
+         "type" : "unsigned"
+      },
+      {
+         "name" : "OriginId",
+         "size" : 2,
+         "type" : "unsigned"
+      }
+   ],
+   "srs" : "EPSG:4978",
+   "storage" : "laszip",
+   "structure" : {
+      "baseDepth" : 10,
+      "coldDepth" : 0,
+      "dimensions" : 2,
+      "dynamicChunks" : true,
+      "mappedDepth" : 12,
+      "nullDepth" : 7,
+      "numPointsHint" : 10653336,
+      "pointsPerChunk" : 262144,
+      "prefixIds" : false,
+      "sparseDepth" : 12,
+      "tubular" : true
+   },
+   "transformation" : [
+      0.83801644089999527,
+      -0.54564498053340904,
+      0,
+      -6.9849193096160889e-10,
+      0.37810382345174909,
+      0.5807021629887682,
+      0.7209871681183615,
+      -1.1641532182693481e-09,
+      -0.39340302931278104,
+      -0.60419910056111581,
+      0.69294841323771394,
+      -6367997.2686695009,
+      0,
+      0,
+      0,
+      1
+   ],
+   "trustHeaders" : true,
+   "version" : "1.1.0"
+}
